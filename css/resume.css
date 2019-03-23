@@ -1,0 +1,35 @@
+body{
+  background:silver;
+}
+.main
+{
+  display: flex;
+}
+.left
+{
+  width: 30%;
+  border: 1px solid lightgray
+background:silver;
+margin: 3%;
+padding-left: 1%;
+border: 2px solid grey;
+border-radius: 30px;
+}
+.right
+{
+    border: 1px solid lightgray
+    background:silver;
+    margin: 3%;
+    padding: 1%;
+    border: 2px solid grey;
+border-radius: 30px;
+}
+
+table th,td{
+  border:2px solid black;
+  border-collapse: collapse;
+}
+  img{
+    width: 250px;
+    height: 250px;
+  }

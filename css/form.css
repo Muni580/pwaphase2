@@ -1,0 +1,46 @@
+body
+{
+  background: #91D3D5;
+  text-align: center;
+}
+.main{
+  display:flex;
+  margin: 2%;
+  padding: 2%;
+  width:95%;
+}
+.main section{
+  width:95%;
+  border: 2px solid black;
+  margin: 1%;
+  border-radius: 20px;
+  padding:2%;
+}
+section{
+  background: #1B5254;
+  text-align: center;
+  margin:1%;
+  padding:1%;
+}
+input,select{
+  width:80%;
+  margin:1%;
+  padding:1%;
+  display:block;
+  border: 1px solid red;
+}
+#career{
+  width:95%;
+  margin:1%;
+  padding:1%;
+  display:block;
+}
+button{
+  width:15%;
+  background:#1B5254;
+  color:#ddd;
+  font-size: 30px;
+  margin: 1%;
+  padding:1%;
+font-weight: bold;
+}
